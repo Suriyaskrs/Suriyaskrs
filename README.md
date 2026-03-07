@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=warp&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=200&section=header&text=Suriya%20S&fontSize=70&fontColor=00BFFF&animation=fadeIn&fontAlignY=55&desc=Backend%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descSize=20&descColor=8b949e&descAlignY=78" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=warp&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=200&section=header&text=Suriya%20S&fontSize=70&fontColor=00BFFF&animation=fadeIn&fontAlignY=55&desc=Backend%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descSize=20&descColor=8b949e&descAlignY=78" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Suriya%20S" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -179,8 +180,10 @@ const suriya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suriyaskrs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suriyaskrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Suriyaskrs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&count_private=true" width="49%" alt="GitHub Stats"/>
+<!--
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Suriyaskrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
+-->
 
 <br/>
 
@@ -252,4 +255,5 @@ const suriya = {
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=warp&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=80&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=warp&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=80&section=footer" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You!!!" width="100%"/>
