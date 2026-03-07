@@ -256,4 +256,4 @@ const suriya = {
 
 <!-- FOOTER -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=warp&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=80&section=footer" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You!!!" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&text=Thank%20You!!!" width="100%"/>
